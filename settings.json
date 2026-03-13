@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "DevilPsmp.aternos.me",
+    "port": 38379,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
